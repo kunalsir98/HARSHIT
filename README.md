@@ -10,3 +10,9 @@ conda activate venv/
 OR
 ---
 conda activate venv
+
+---
+to run setup.py 
+---
+python setup.py install
+---
